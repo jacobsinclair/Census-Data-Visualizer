@@ -30,8 +30,7 @@ java --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJ
 
 
 A large Dataset containing over 2600 inmates:
-
-<img width="501" alt="Screenshot 2023-11-27 at 8 31 29 PM" src="https://github.com/jacobsinclair/JailCensusData-Visualizer/assets/134180713/174f76c8-25e1-462b-9561-720af2f4c4e2">
+![myimg](https://github.com/jacobsinclair/JailCensusData-Visualizer/assets/134180713/174f76c8-25e1-462b-9561-720af2f4c4e2){: height="75px" width="300px" style="float:left; padding-right:10px" }
 
 
 
