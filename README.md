@@ -10,12 +10,18 @@ and can be queried by inputted demographics. The program can be adjusted for var
 * The file path you use to run should match the directory you save the files to.
 
 *Instead of javac filename.java and java filename, use the following--
+
+
 MAC:
 * javac --module-path /Users/(your username here)/Downloads/javafx-(sdk or jdk)-(version of sdk or jdk that you have)/lib --add-modules javafx.controls JailCensusDisplayJPS.java
 * java --module-path /Users/(your username here)/Downloads/javafx-(sdk or jdk)-(version of sdk or jdk that you have/lib --add-modules javafx.controls JailCensusDisplayJPS
+
+  
 WINDOWS:
 * javac --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJPS.java
 java --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJPS
+
+
 
 # Images of various datasets working in the application
 
