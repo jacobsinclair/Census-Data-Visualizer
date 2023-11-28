@@ -5,13 +5,15 @@ and can be queried by inputted demographics. The program can be adjusted for var
 
 
 # Requirements to run
-* Because JavaFX isn't compatible with some JDK versions, you must have a compatible version: 17, 18, 18.0.1 or newer should work
+* Because JavaFX isn't compatible with some JDK and SDK versions, you must have a compatible version: 17, 18, 18.0.1 or newer should work
 * This program must be compiled and run differenly because it uses JavaFX.
 * Instead of javac filename.java and java filename, use the following
-  MAC: javac --module-path /Users/(your username here)/Downloads/javafx-(sdk or jdk)-(version of sdk or jdk that you have)/lib --add-modules javafx.controls JailCensusDisplayJPS.java
-       java --module-path /Users/(your username here)/Downloads/javafx-(sdk or jdk)-(version of sdk or jdk that you have/lib --add-modules javafx.controls JailCensusDisplayJPS
-  WINDOWS: javac --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJPS.java
-           java --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJPS
+MAC:
+javac --module-path /Users/(your username here)/Downloads/javafx-(sdk or jdk)-(version of sdk or jdk that you have)/lib --add-modules javafx.controls JailCensusDisplayJPS.java
+java --module-path /Users/(your username here)/Downloads/javafx-(sdk or jdk)-(version of sdk or jdk that you have/lib --add-modules javafx.controls JailCensusDisplayJPS
+WINDOWS:
+javac --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJPS.java
+java --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJPS
 * The file path you use to run should match the directory you save the files to.
 
 # Images of various datasets working in the application
