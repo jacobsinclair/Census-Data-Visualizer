@@ -9,7 +9,8 @@ and can be queried by inputted demographics. The program can be adjusted for var
 * This program must be compiled and run differenly because it uses JavaFX.
 * The file path you use to run should match the directory you save the files to.
 
-*Instead of javac filename.java and java filename, use the following--
+
+Instead of javac filename.java and java filename, use the following--
 
 
 MAC:
