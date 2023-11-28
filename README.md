@@ -29,7 +29,7 @@ The large Dataset queried by male and female gender respectively:
 
 
 
-The large Dataset queried by an age range of 21-35 years old: 
+The large Dataset queried by an age range of 21-35 years old and male gender: 
 
 <img width="500" alt="Screenshot 2023-11-27 at 8 34 58 PM" src="https://github.com/jacobsinclair/JailCensusData-Visualizer/assets/134180713/a1eeb83e-fa56-4782-9f08-2065d0c7e3b1">
 
