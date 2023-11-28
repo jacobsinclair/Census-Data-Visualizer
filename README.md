@@ -4,6 +4,7 @@ I used Object-Oriented program design to create a visualization that is easily a
 and can be queried by inputted demographics. The program can be adjusted for various sizes of data sets. In my implementation I used sets ranging from 10 inmates all the way to 2600+ inmates.
 
 A large Dataset containing over 2600 inmates:
+
 <img width="501" alt="Screenshot 2023-11-27 at 8 31 29 PM" src="https://github.com/jacobsinclair/JailCensusData-Visualizer/assets/134180713/174f76c8-25e1-462b-9561-720af2f4c4e2">
 
 
