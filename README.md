@@ -30,8 +30,7 @@ java --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJ
 
 
 A large Dataset containing over 2600 inmates:
-![myimg](https://github.com/jacobsinclair/JailCensusData-Visualizer/assets/134180713/174f76c8-25e1-462b-9561-720af2f4c4e2){: height="75px" width="300px" style="float:left; padding-right:10px" }
-
+<img width="300" alt="Screenshot 2023-11-27 at 8 34 38 PM" src="https://github.com/jacobsinclair/JailCensusData-Visualizer/assets/134180713/3bb2194d-43d4-49ad-a2da-c2908c8746a5">
 
 
 
@@ -39,6 +38,7 @@ A large Dataset containing over 2600 inmates:
 The large Dataset queried by male and female gender respectively:
 
 <img width="500" alt="Screenshot 2023-11-27 at 8 34 38 PM" src="https://github.com/jacobsinclair/JailCensusData-Visualizer/assets/134180713/cc78a90b-bd75-4f0d-9ea4-da0c24ba97cb">
+
 <img width="500" alt="Screenshot 2023-11-27 at 8 34 32 PM" src="https://github.com/jacobsinclair/JailCensusData-Visualizer/assets/134180713/7c1eff33-54c6-4a51-9766-12fa59b05ccf">
 
 
