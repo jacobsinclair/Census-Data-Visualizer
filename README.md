@@ -20,7 +20,7 @@ MAC:
   
 WINDOWS:
 * javac --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJPS.java
-java --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJPS
+* java --module-path %PATH_TO_FX% --add-modules javafx.controls JailCensusDisplayJPS
 
 
 
