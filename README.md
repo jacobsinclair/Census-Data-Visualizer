@@ -29,7 +29,7 @@ WINDOWS:
 
 
 
-<h2>A large Dataset containing over 2600 inmates:</h2>
+A large Dataset containing over 2600 inmates:
 
 <img width="300" alt="Screenshot 2023-11-27 at 8 34 38 PM" src="https://github.com/jacobsinclair/JailCensusData-Visualizer/assets/134180713/3bb2194d-43d4-49ad-a2da-c2908c8746a5">
 
